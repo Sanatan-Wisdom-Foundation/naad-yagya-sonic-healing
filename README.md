@@ -1,7 +1,5 @@
 # Naad Yagya – Sonic Healing Protocol Development
 
-![Naad Yagya Banner](https://raw.githubusercontent.com/Sanatan-Wisdom-Foundation/assets/main/naad-yagya-banner.jpg)
-
 **Naad Yagya** is a research-led initiative under the **Sanatan Wisdom Foundation**, founded by **Devrishi**, exploring the intersection of Vedic mantra science, neuroscience, and consciousness-based healing. This repository tracks the academic, experimental, and institutional development of the project through open research and structured milestones.
 
 ---
